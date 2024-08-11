@@ -12,7 +12,7 @@ Extensibility: The project is designed to be easily extensible, allowing for the
 Getting Started
 To get started with the Chatbot-Natural-Language-Processing-for-Conversational project, follow these steps:
 
-Clone the repository: git clone https://github.com/aryuemaan/Chatbot-Natural-Language-Processing-for-Conversational-A.git
+Clone the repository: git clone https://github.com/rohitsaxena/Chatbot-Natural-Language-Processing-for-Conversational-A.git
 Install the required dependencies. Ensure you have Python and the necessary packages installed.
 Explore the project structure and familiarize yourself with the codebase.
 Run the chatbot application and interact with it using a suitable user interface.
